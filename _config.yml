@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 timezone: Asia/Singapore
+baseurl: /rmd_underground
+url: "throwawayleh.github.io"
+permalink: /:title
