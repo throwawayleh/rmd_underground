@@ -1,3 +1,3 @@
 ## Welcome to RMD underground
 
-This is where we should useful tips to be more productive and be safe.
+RMD Underground is a blog for RMD staff to share views that challenge – or support – prevailing orthodoxies. The views expressed here are strictly those of the authors.
