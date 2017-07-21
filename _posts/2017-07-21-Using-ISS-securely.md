@@ -4,7 +4,7 @@ title: Using ISS securely
 categories: security
 ---
 
-Here we share some tips on using Bloomberg ISS safely:
+Here we share some tips on using Bloomberg ISS safely.
 
 1. Always ensure that your anti-virus is up-to-date.
 1. Ensure Windows is updated regularly to patch any security loopholes in the operating system.
