@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 
 Here we share some tips on using Bloomberg ISS safely.
