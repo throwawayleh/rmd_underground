@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using ISS securely
-categories: security
 ---
 
 Here we share some tips on using Bloomberg ISS safely.
